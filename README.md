@@ -111,6 +111,6 @@ Before collecting data, review the website's current terms and applicable access
 
 ## Author
 
-**Vamsi** — BCA graduate building practical skills in Python, web scraping, and data analytics.
+**Bodigadla Sarvendhra Vamsi** — BCA graduate building practical skills in Python, web scraping, and data analytics.
 
-[View my GitHub profile](https://github.com/u200cbvt)
+[View my GitHub profile](https://github.com/sarvendhra-vamsi)
